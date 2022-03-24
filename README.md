@@ -1,5 +1,5 @@
-# dio-desafio-github-LuizC19
+# Dio-desafio-github-LuizC19
 Desafio de Projeto sobre Git/GitHub
 
 ## Links Uteis
-[Sistaxe Basica Markdown]{https://www.markdownguide.org/basic-syntax/}
+[Sistaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
