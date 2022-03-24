@@ -1,5 +1,4 @@
-# Dio-desafio-github-LuizC19
-Desafio de Projeto sobre Git/GitHub
+Desafio de Projeto sobre Git/GitHub da DIO
 
 ## Links Uteis
 [Sistaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
